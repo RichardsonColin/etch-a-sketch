@@ -1,0 +1,23 @@
+#top-bar {
+	height: 50px;
+	width: 50%;
+	margin: 0 auto;
+	border: 2px solid #BFEFFF;
+	border-radius: 10px;
+	box-shadow: 5px 5px 2px #C0C0C0;
+}
+#container {
+	position: relative;
+	top: 20px;
+	margin: auto;
+	height: 520px;
+	width: 520px;
+	outline: 2px solid #000;
+	font-size: 0;
+}
+.grid {
+	margin: 0px;
+	padding: 0px;
+	outline: 1px solid #000;
+	display: inline-block;
+}
